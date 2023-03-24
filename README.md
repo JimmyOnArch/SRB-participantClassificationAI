@@ -1,2 +1,2 @@
-# SRB-participantClassificationAI
- 
+# SRB-xgBoost
+ Classification algorithm for 
